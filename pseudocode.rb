@@ -1,3 +1,5 @@
+# Daniel Vogelsang 5/2/17
+
 # Text document. Three most common words in the text document.
 # 1. Big Picture
 We need to read a document, sort all the words of a document into an array, and then sort the array by number of instances and then output top three.
