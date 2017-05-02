@@ -9,7 +9,7 @@ if answer == answer.upcase
   answer = gets.chomp
 elsif answer != answer.upcase
   puts "I AM HAVING A HARD TIME HEARING YOU"
-  answer = gets.chomp
+  answer = gets.chomp 
 else
   puts "HELLO?"
   answer = gets.chomp
